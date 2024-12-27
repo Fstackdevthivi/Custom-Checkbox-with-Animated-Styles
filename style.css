@@ -53,11 +53,3 @@ body{
 .checkbox input:checked + .checkmark::after {
   background-color: white;
 }
-
-.checkbox .label {
-  margin-right: 10px;
-  user-select: none;
-  font-weight: 700;
-  cursor: pointer;
-}
-
